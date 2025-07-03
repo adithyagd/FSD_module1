@@ -1,0 +1,10 @@
+.container ul {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: bisque;
+    padding: 10px;
+    list-style: none; /* Optional: removes default bullets */
+  }
+  
+  
