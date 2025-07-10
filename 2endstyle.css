@@ -7,4 +7,12 @@
     list-style: none; /* Optional: removes default bullets */
   }
   
+  ul li {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px; /* ✅ Fixed: added missing semicolon */
+    margin: 5px; /* Optional: adds spacing between items */
+  }
+  
   
